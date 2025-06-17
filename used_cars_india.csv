@@ -1,0 +1,50 @@
+Brand,Model,Year,KM_Driven,Fuel_Type,Transmission,Owner_Type,Mileage_kmpl,Engine_cc,Selling_Price_INR
+Volkswagen,Ameo,2013,132449,Petrol,Manual,Fourth & Above Owner,14.1,1034,1864000.0
+Maruti,Baleno,2013,60891,CNG,Manual,Fourth & Above Owner,15.5,1196,1625000.0
+Mahindra,XUV500,2005,77251,CNG,Manual,Third Owner,24.2,1840,428000.0
+Hyundai,i20,2014,148773,LPG,Automatic,Third Owner,18.1,1261,2436000.0
+Hyundai,i10,2005,64505,CNG,Manual,Second Owner,13.3,1910,346000.0
+Honda,WR-V,2017,11073,LPG,Automatic,Third Owner,10.7,1636,1315000.0
+Honda,Jazz,2017,133963,Petrol,Automatic,First Owner,13.6,1403,450000.0
+Maruti,Alto,2014,84716,Diesel,Manual,First Owner,13.0,1750,636000.0
+Mahindra,Scorpio,2005,8939,CNG,Manual,Fourth & Above Owner,11.7,805,1860000.0
+Mahindra,XUV500,2022,61121,Petrol,Manual,Fourth & Above Owner,21.4,2101,1724000.0
+Mahindra,XUV500,2018,21983,LPG,Manual,First Owner,16.3,1137,2037000.0
+Honda,Amaze,2010,76853,Petrol,Automatic,Fourth & Above Owner,13.3,896,268000.0
+Honda,City,2015,111728,Petrol,Manual,Second Owner,18.3,1682,464000.0
+Mahindra,Scorpio,2011,112099,Diesel,Manual,First Owner,21.4,2047,1525000.0
+Maruti,Baleno,2009,55772,Petrol,Manual,Fourth & Above Owner,23.6,1191,1698000.0
+Mahindra,XUV500,2019,108840,Diesel,Automatic,Second Owner,23.9,1115,672000.0
+Hyundai,i20,2008,95955,Petrol,Automatic,Fourth & Above Owner,23.1,2002,1515000.0
+Volkswagen,Ameo,2005,80476,Petrol,Automatic,Third Owner,22.5,1928,2130000.0
+Chevrolet,Sail,2006,18765,Diesel,Manual,First Owner,17.4,1606,2178000.0
+Volkswagen,Taigun,2009,61895,CNG,Automatic,Fourth & Above Owner,24.4,1718,1348000.0
+Mahindra,TUV300,2017,36815,Petrol,Manual,Fourth & Above Owner,12.5,2180,337000.0
+Tata,Nano,2006,61068,LPG,Automatic,Second Owner,18.9,2102,747000.0
+Renault,Duster,2012,31513,LPG,Manual,Third Owner,12.5,2146,2018000.0
+Tata,Nano,2008,122050,Petrol,Automatic,Fourth & Above Owner,17.6,1838,801000.0
+Mahindra,Scorpio,2022,145829,CNG,Automatic,Third Owner,11.3,1481,1390000.0
+Maruti,Alto,2020,115406,Diesel,Automatic,Fourth & Above Owner,22.5,835,1554000.0
+Hyundai,Creta,2021,25529,CNG,Manual,Third Owner,17.9,1793,1183000.0
+Chevrolet,Cruze,2012,115978,Petrol,Automatic,First Owner,20.8,1722,757000.0
+Maruti,Dzire,2019,8963,LPG,Automatic,Fourth & Above Owner,23.9,1830,767000.0
+Honda,Jazz,2011,7039,Diesel,Automatic,Second Owner,13.4,1042,1273000.0
+Renault,Kiger,2005,127375,LPG,Automatic,Third Owner,18.7,866,1269000.0
+Tata,Nexon,2013,83597,Petrol,Manual,Second Owner,16.3,1078,1353000.0
+Renault,Duster,2014,65436,Diesel,Manual,Second Owner,11.9,1800,1857000.0
+Tata,Nexon,2016,134686,Petrol,Automatic,Second Owner,12.1,1780,245000.0
+Tata,Tigor,2011,148022,Petrol,Automatic,First Owner,11.3,1369,1617000.0
+Chevrolet,Cruze,2006,59102,CNG,Automatic,Fourth & Above Owner,11.7,1067,1253000.0
+Honda,City,2008,57863,LPG,Automatic,Fourth & Above Owner,16.0,1575,1497000.0
+Volkswagen,Ameo,2021,94127,CNG,Automatic,Fourth & Above Owner,13.4,1468,837000.0
+Honda,Amaze,2011,114623,CNG,Manual,Fourth & Above Owner,19.5,1609,2184000.0
+Volkswagen,Vento,2020,112665,CNG,Manual,Fourth & Above Owner,20.7,853,2342000.0
+Ford,Ecosport,2012,71419,CNG,Automatic,Third Owner,23.6,2192,2098000.0
+Volkswagen,Polo,2011,110262,Petrol,Manual,First Owner,17.5,1633,572000.0
+Maruti,Alto,2018,140170,Diesel,Manual,Third Owner,16.1,1648,1517000.0
+Hyundai,Verna,2016,14216,LPG,Manual,First Owner,17.1,1834,2251000.0
+Toyota,Fortuner,2015,138150,CNG,Manual,Second Owner,22.2,1002,1245000.0
+Toyota,Glanza,2015,91100,Diesel,Automatic,First Owner,10.7,1622,852000.0
+Renault,Kiger,2008,75800,Petrol,Manual,First Owner,14.6,2025,1104000.0
+Mahindra,Bolero,2011,100760,Diesel,Manual,First Owner,16.5,1569,2062000.0
+Mahindra,Scorpio,2018,56887,Petrol,Manual,Third Owner,21.0,868,1529000.0
